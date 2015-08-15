@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+client_id
+ssl
+*.sqlite
+__pycache__
+*.pyc
+*.csr
+*secret
+*.pem
+*.crt
+*.key
+userlist
